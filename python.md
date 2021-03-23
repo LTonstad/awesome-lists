@@ -2,6 +2,13 @@
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python), modified to fit what I'm looking into specifically
 
+* Current Working:
+    * [Lyrics Genius](https://github.com/johnwmillr/LyricsGenius)
+    * [librosa](https://github.com/librosa/librosa)
+    * [Sportsipy](https://sportsipy.readthedocs.io/en/latest/)
+    * [Pandas-DataReader](https://pandas-datareader.readthedocs.io/en/latest/)
+
+
 - [Awesome Python](#awesome-python)
     - [Audio](#audio)
     - [Command-line Interface Development](#command-line-interface-development)
